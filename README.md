@@ -4,4 +4,4 @@ I'm a beginner web developer currently learning HTML and CSS. I enjoy building s
 
 My goal is to become a professional developer and start earning online by creating websites for people and small businesses.
 
-🚀 Currently learning: HTML & CSS 💻 Working on: My first website projects
+🚀 Currently made a website project HTML  💻 Working on: My first website projects
